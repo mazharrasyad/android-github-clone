@@ -23,7 +23,7 @@
   </tr>
   <tr align="center">   
     <td>Share</td>
-    <td>Favorite Click</td>
+    <td>Favorite Clicked</td>
     <td>Setting</td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@
     <td><img src="/images/10.jpeg" width="240"></td>
   </tr>
   <tr align="center">   
-    <td>Favorite</td>
+    <td>Favorite User</td>
   </tr>
   <tr>
     <td><img src="/images/11.jpeg" width="240"></td>
