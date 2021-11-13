@@ -25,12 +25,16 @@
     <td>Share</td>
     <td>Favorite Click</td>
     <td>Setting</td>
-    <td>Favorite</td>
   </tr>
   <tr>
     <td><img src="/images/8.jpeg" width="240"></td>
     <td><img src="/images/9.jpeg" width="240"></td>
     <td><img src="/images/10.jpeg" width="240"></td>
+  </tr>
+  <tr align="center">   
+    <td>Favorite</td>
+  </tr>
+  <tr>
     <td><img src="/images/11.jpeg" width="240"></td>
   </tr>
 </table>
