@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aplikasi Github User Ketiga</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_search_hint">Masukkan Username</string>
+    <string name="username_github">Username Github</string>
+    <string name="name_github">Nama Github</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help">Silahkan Cari Username Github</string>
+    <string name="empty">Username Github Tersebut Tidak Ada</string>
+    <string name="share">Share</string>
+    <string name="tab_follower">Follower</string>
+    <string name="tab_following">Following</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_setting">Setting</string>
+    <string name="setting">Reminder</string>
+    <string name="reminder">Daily Reminder at 09.00 AM</string>
+    <string name="message_reminder">Ayo buka aplikasi github user...</string>
+</resources>
